@@ -2,3 +2,4 @@ hello world
 nihao
 lisi
 wanglaowu
+Creating a new branch is quick AND simple.
